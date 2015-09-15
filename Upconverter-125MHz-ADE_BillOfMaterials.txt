@@ -1,0 +1,59 @@
+Upconverter 1.3 Bill Of Materials,,,,
+,,,,
+QTYonPCB,DigiKey Part Number,References - Description,Manufacturer Part Number,Manufacturer
+2,PESD0603-240CT-ND,AG1 AG2 - ESD TVS 0603,PESD0603-240,TE Connectivity Raychem Circuit Protection
+6,587-1134-1-ND,C1toC6 - CAP 0u1=0.1uF=100nF 0805 X7R 10V RF Low-Distortion,LMK212SD104KG-T,Taiyo Yuden
+1,251R14S4R7CV4T,C24 - 4.7pF NP0 0603 Very High-Q RF,251R14S4R7CV4T,Johanson Technology Inc.
+1,1276-1767-1-ND,C12 - 6pF NP0 0805,CL21C060CBANNN,Samsung Electro-Mechanics America Inc.
+2,1276-2556-1-ND,C22 C26 - 8pF NP0 0805,CL21C080CBANNN,Samsung Electro-Mechanics America Inc.
+1,1276-1109-1-ND,C32 - 10pF NP0 0805,CL21C100JBANNN,Samsung Electro-Mechanics America Inc.
+2,709-1170-1-ND,C21 C27 - 15pF NP0 0805,500R15N150JV4T,Johanson Dielectrics Inc.
+2,478-3735-1-ND,C16 C31 - 20pF NP0 0805,08051A200JAT2A,AVX Corporation
+2,478-3738-1-ND,C14 C83 - 30pF NP0 0805,08051A300JAT2A,AVX Corporation
+2,311-1108-1-ND,C23 C25 - 56pF NP0 0805,CC0805JRNPO9BN560Yageo,
+2,1276-1136-1-ND,C11 C17 - 68pF NP0 0805,CL21C680JBANNN,Samsung Electro-Mechanics America Inc.
+1,1276-2695-1-ND,C15 - 82pF NP0 0805,CL21C820JB61PN,Samsung Electro-Mechanics America Inc.
+6,1276-1014-1-ND,C13 C71 C72 C73 C74 C77 - 100pF NP0 0805,CL21C101JBANNN,Samsung Electro-Mechanics America Inc.
+1,399-1147-1-ND,C81 - 1000pF X7R 0805,C0805C102K5RACTU,Kemet
+8,1276-1180-1-ND,C61to68 - 0.1uF X7R 50V 0805,CL21B104KBFNNN,Samsung Electro-Mechanics America Inc.
+3,1276-2417-1-ND,C51 C52 C53 - 4.7uF 10V X5R 0805,CL21A475KPCLNN,Samsung Electro-Mechanics America Inc.
+1,1276-1052-1-ND,C54 - 10uF 10V X5R 0805,CL21A106KPFNNN,Samsung Electro-Mechanics America Inc.
+1,587-3246-1-ND,C9 - 22uF 25V 1206 X5R NOISE,TMK316BBJ226ML-T,Taiyo Yuden
+4,MBR0540T3GOSCT-ND,D1 D2 D3 D4 - Schottky 40V 0.5A SOD123 LowLeakage,MBR0540,ON Semiconductor
+1,160-1414-1-ND,D5 - LED Diode Green  NOISE,LTST-C170KGKT,Lite-On Inc.
+1,BAV99WT1GOSTR-ND,D6 - Diode Limiter SC70-3,BAV99WT1G,ON Semiconductor
+1,350-1755-ND,D7 - 3High LED Red-Yellow-Green TH,564-0200-132F,Dialight
+1,MM3Z7V5ST1GOSTR-ND,D8 - 7.5V Zener SOD323  NOISE,MM3Z7V5ST1G,ON Semiconductor
+1,SMAZ5V6-FDITR-ND,D9 - 5.6V 1W Zener SMA,SMAZ5V6,Diodes Incorporated
+1,507-1814-1-ND,F1 - PTC Fuse 0.5A Ihold 1A Itrip 0805,0ZCK0075FF2E,Bel Fuse Inc.
+1,296-38557-1-ND,IC1 (LLVB) - 3.3V 0.25A LDO SOT23-5,LP5907MFX-3.3,Texas Instruments
+1,296-39064-1-ND,IC2 (LLXB) - 4.5V 0.25A LDO SOT23-5,LP5907MFX-4.5,Texas Instruments
+1,NCP1403SNT1GOSCT-ND,IC3 (DCE) - DC-DC Boost SOT23-5  NOISE,NCP1403SNT1G,ON Semiconductor
+1,BD48K35G-TLCT-ND,IC4 (Ar) - 3.5V Open Drain RESET IC SOT23-3,BD48K35G-TL,Rohm Semiconductor
+2,74LVC2G14DW-7DICT-ND,IC5 IC11 (Z5) - Dual Logic Schmitt Trigger Inverter SC70-6,74LVC2G14DW,Diodes Incorporated
+2,863-1002-1-ND,IC6 IC7 (S169) - RF Switch SPDT SOT23-6,AS169-73LF,Skyworks Solutions Inc.
+1,296-11605-1-ND,IC8 (C265) - Logic Buffer SOT23-5   Do Not Substitute,SN74LVC1G126DBV,Texas Instruments
+2,568-9446-1-ND,IC9 IC10 (LS) - MMIC RF Amp SOT-363  NOISE,BGA2817,NXP Semiconductors
+2,490-6866-1-ND,L23 L25 - 15nH Q=40 0603,LQW18AN15N,Murata Electronics North America
+2,490-6899-1-ND,L21 L27 - 56nH Q=38 0603,LQW18AN56N,Murata Electronics North America
+3,490-6919-1-ND,L14 L22 L26 - 110nH Q=32 0603,LQW18ANR11,Murata Electronics North America
+2,490-6920-1-ND,L16 L31 - 120nH Q=32 0603,LQW18ANR12,Murata Electronics North America
+2,490-6923-1-ND,L12 L32 - 150nH Q=32 0603,LQW18ANR15,Murata Electronics North America
+1,490-6927-1-ND,L24 - 180nH Q=25 0603,LQW18ANR18,Murata Electronics North America
+1,587-2037-1-ND,L9 - 47uH 1.2 Ohm DCR 200mA 1207  NOISE,LB3218T470K,Taiyo Yuden
+1,1276-5466-1-ND,R42 - 0.0 Ohm Jumper 0805  NOISE,RC2012J000CS,Samsung Electro-Mechanics America Inc.
+1,RR12Q36DCT-ND,R41 - 36 Ohm 0.5% ThinFilm 0805,RR1220Q-360-D,Susumu
+1,1276-5211-1-ND,R51 - 56 Ohm 1% 0805,RC2012F560CS,Samsung Electro-Mechanics America Inc.
+2,RR12P160DCT-ND,R31 R32 R35 R36 - 160 Ohm 0.5% ThinFilm 0805,RR1220P-161-D,Susumu
+1,1276-5253-1-ND,R61 R62 - 430 Ohm 1% 0805,RC2012F431CS,Samsung Electro-Mechanics America Inc.
+6,1276-5272-1-ND,R21toR26 - 1k Ohm 1% 0805,RC2012F102CS,Samsung Electro-Mechanics America Inc.
+1,1276-5293-1-ND,R27 - 2.5k Ohm 1% 0805,RC2012F242CS,Samsung Electro-Mechanics America Inc.
+2,1276-5377-1-ND,R1 R9 - 47k Ohm 1% 0805,RC2012F473CS,Samsung Electro-Mechanics America Inc.
+1,1276-5437-1-ND,R8 - 680k Ohm 1% 0805,RC2012F684CS,Samsung Electro-Mechanics America Inc.
+1,WM5587CT-ND,TP6 (CLK) - UMCC U.FL Receptacle,734120110,Molex Inc.
+1,ED2982-ND,U2 - USB-B Connector,USB-B1HSW6,On Shore Technology Inc.
+1,FNEPON125CT-ND,X1 - 125MHz 50ppm Oscillator 7x5mm,FNEPON125,Pericom
+2,A97593-ND,P1 P2 - SMA RF Right-Angle Thru-Hole Jack,5-1814400-1,TE Connectivity AMP Connectors
+1,36-2481-ND,BT1 - 4AAA Battery Holder PC Pins,2481,Keystone Electronics
+1,432-1164-ND,JP2 - SW TOGGLE SPDT .4VA RT ANG PCB,2M1-SP1-T2-B4-M6RE,Carling Technologies
+1,NotAvailable,U3 - MiniCircuits +7dBm Mixer,ADE-1+,MiniCircuits

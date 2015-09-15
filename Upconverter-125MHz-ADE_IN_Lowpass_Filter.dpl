@@ -1,0 +1,32 @@
+<Qucs Schematic 0.0.16>
+<Properties>
+  <View=0,50,980,1025,1.1,0,0>
+  <Grid=10,10,0>
+  <DataSet=Upconverter-125MHz-ADE_IN_Lowpass_Filter.dat>
+  <DataDisplay=Upconverter-125MHz-ADE_IN_Lowpass_Filter.sch>
+  <OpenDisplay=1>
+  <Script=Upconverter-125MHz-ADE_IN_Lowpass_Filter.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Upconverter Lowpass Filter>
+  <FrameText1=Drawn By: mw @ Opendous Inc.>
+  <FrameText2=Date: 2015-09-15>
+  <FrameText3=Revision: 1.3>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 90 543 604 453 3 #c0c0c0 1 00 0 0 2.5e+07 1e+08 0 -63 3 3 1 -1 0.2 1 315 0 225 "Frequency (Hz)" "" "">
+	<"Gain_dBS21" #ff0000 2 3 0 0 0>
+	  <Mkr 6.04895e+07 115 -416 3 0 0>
+	  <Mkr 6.649e+07 434 -401 3 0 0>
+	  <Mkr 8.48914e+07 281 -87 3 0 0>
+	<"Return_Loss_dBS11" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

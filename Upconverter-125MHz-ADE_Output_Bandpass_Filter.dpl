@@ -1,0 +1,32 @@
+<Qucs Schematic 0.0.16>
+<Properties>
+  <View=-171,0,891,1065,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=Upconverter-125MHz-ADE_Output_Bandpass_Filter.dat>
+  <DataDisplay=Upconverter-125MHz-ADE_Output_Bandpass_Filter.sch>
+  <OpenDisplay=1>
+  <Script=Upconverter-125MHz-ADE_Output_Bandpass_Filter.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Upconverter 125MHz Output Bandpass Filter>
+  <FrameText1=Drawn By: mw @ Opendous Inc.>
+  <FrameText2=Date: 2015-09-15>
+  <FrameText3=Revision: 1.3>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect -50 518 774 498 3 #c0c0c0 1 00 1 1e+08 1e+07 2.5e+08 0 -54 3 3 1 -1 0.2 1 315 0 225 "Frequency (MHz)" "" "">
+	<"ReturnLoss_dBS11" #0000ff 1 3 0 0 0>
+	<"Gain_dBS21" #ff0000 2 3 0 0 0>
+	  <Mkr 2.25e+08 440 -430 3 0 0>
+	  <Mkr 1.25e+08 110 -260 3 0 0>
+	  <Mkr 1.1e+08 70 -150 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
